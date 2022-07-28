@@ -1,2 +1,2 @@
 # restaurant_website
-A MERN project
+A react project
