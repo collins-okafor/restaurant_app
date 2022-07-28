@@ -1,2 +1,2 @@
 # restaurant_website
-A react project
+A simple react project
