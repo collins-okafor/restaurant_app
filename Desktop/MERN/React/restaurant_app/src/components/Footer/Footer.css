@@ -1,0 +1,28 @@
+.footer{
+    border: 1px solid red;
+    width: 75%;
+    height: 40vh;
+    margin: auto;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.footer .foot{
+    width: 32%;
+    border: 1px solid yellow;
+    padding-top: 60px;
+    /* text-align: center; */
+}
+
+.footer .blog{
+    width: 32%;
+    border: 1px solid greenyellow;
+    padding-top: 60px;
+}
+
+.footer .tags{
+    width: 32%;
+    border: 1px solid purple;
+    padding-top: 60px;
+}

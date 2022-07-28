@@ -1,0 +1,22 @@
+.image-roll{
+    /* border: 1px solid red; */
+    margin-top: 0px;
+    margin-left: 210px;
+    margin-right: 210px;
+    height:  70vh;
+    justify-content: space-between;
+    display: flex;
+}
+
+.image-div{
+    /* background-color: azure; */
+    height: 70vh;
+    width: 17vw;
+    text-align: center;
+    padding-bottom: 1px;
+}
+
+img{
+    height: 54vh;
+    width: 17vw;
+}
